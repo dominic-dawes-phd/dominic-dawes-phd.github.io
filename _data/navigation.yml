@@ -14,14 +14,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: https://docs.google.com/document/d/1rsrtlz-mWvXpQRougc9LMIx3frxqWcQD/edit?usp=drive_link
