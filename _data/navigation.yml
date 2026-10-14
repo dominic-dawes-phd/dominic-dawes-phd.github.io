@@ -24,7 +24,4 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: https://docs.google.com/document/d/1rsrtlz-mWvXpQRougc9LMIx3frxqWcQD/edit?usp=drive_link
